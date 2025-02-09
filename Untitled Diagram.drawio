@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="SYwiqu6Nr6_0mF178wVQ">
-    <mxGraphModel dx="766" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l45x60GQ4gw3mojpDYws-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="153" width="120" height="60" as="geometry" />
+        <mxCell id="l45x60GQ4gw3mojpDYws-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mxbHAJfZiOfYnnYk4IvT-1" value="Key:&lt;div&gt;Blocks = Subsystem&lt;/div&gt;&lt;div&gt;Lines = transfer data between system&lt;/div&gt;&lt;div&gt;Circles = Links&lt;/div&gt;&lt;div&gt;Diamonds = Inputs/Outputs (IO)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="10" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
